@@ -111,5 +111,4 @@ The CSV file can be further analysed or used for various purposes, such as data 
 
 ### References:
 
-Professors Reference Notebook of Indeed: /Users/tanmayshekhar/Downloads/ADS_Matierial/M02/scrape_indeed_student.ipynb:
 ChatGPT 3.5: for helping give boilerplate code for building the scraper and certain error solving
